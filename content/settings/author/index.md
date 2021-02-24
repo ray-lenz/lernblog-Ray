@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Zermatt Blog"
+name = "Ray"
 image = ""
 email = ""
 +++
