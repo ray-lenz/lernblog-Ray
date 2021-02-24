@@ -12,6 +12,12 @@ ich starte die Serie um 08:00 Uhr Morgens mit einem Bild vom Matterhorn beim Son
 
 
 
-Mein Ziel war es, die schöne Seite Zermatts ins Zusammenspiel mit der weniger schönen, industriellen Seite zu setzen. Im Vordergrund sieht man eine überbaute Stelle, währenddessen das Matterhorn im Hintergrund nicht vergessen geht.
+Mein Ziel war es, die schöne Seite Zermatts ins Zusammenspiel mit der weniger schönen, industriellen Seite zu setzen. Im Vordergrund sieht man eine überbaute Stelle, währenddessen das Matterhorn im Hintergrund nicht vergessen geht. Dieses Bild wurde am selben Tag um 14:30 Uhr geschossen.
 
 ![](dsc_03.jpg)
+
+
+
+Auf folgendem Bild sieht man eine der typischen  
+
+![]()
