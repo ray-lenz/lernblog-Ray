@@ -18,6 +18,6 @@ Mein Ziel war es, die schöne Seite Zermatts ins Zusammenspiel mit der weniger s
 
 
 
-Auf folgendem Bild sieht man eine der typischen Sommerbaustellen. Wenn es warm ist wird alles für die kommende Wintersaison vorbereitet, wie hier 
+Auf folgendem Bild sieht man eine der typischen Sommerbaustellen. Wenn es warm ist wird alles für die kommende Wintersaison vorbereitet, wie hier bei dem Hotel "Cervo", wo gerade einen äusseren Spabereich 
 
 ![]()
