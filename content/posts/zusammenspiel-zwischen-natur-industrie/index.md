@@ -18,6 +18,12 @@ Mein Ziel war es, die schöne Seite Zermatts ins Zusammenspiel mit der weniger s
 
 
 
-Auf folgendem Bild sieht man eine der typischen Sommerbaustellen. Wenn es warm ist wird alles für die kommende Wintersaison vorbereitet, wie hier bei dem Hotel "Cervo", wo gerade einen äusseren Spabereich 
+Auf folgendem Bild sieht man eine der typischen Sommerbaustellen. Wenn es warm ist wird alles für die kommende Wintersaison vorbereitet, wie hier bei dem Hotel "Cervo", wo gerade einen äusseren Spabereich gebaut wird. Dieses industrielle Sujet wurde um 13:00 Uhr geschossen.
+
+
+
+![](schmutz.jpg)
+
+Nachfolgend bin ich noch einmal zu dem Ort gegangen, an dem ich das erste Bild früh Morgens schoss. Hier haben wir die selben Einstellungen mit der selben Höhe des Stativs, bloss etwa sieben Stunden später.
 
 ![]()
