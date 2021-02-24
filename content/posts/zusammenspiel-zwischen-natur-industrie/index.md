@@ -26,4 +26,4 @@ Auf folgendem Bild sieht man eine der typischen Sommerbaustellen. Wenn es warm i
 
 Nachfolgend bin ich noch einmal zu dem Ort gegangen, an dem ich das erste Bild früh Morgens schoss. Hier haben wir die selben Einstellungen mit der selben Höhe des Stativs, bloss etwa sieben Stunden später.
 
-![]()
+![](moin.jpg)
