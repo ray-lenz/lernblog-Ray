@@ -6,7 +6,7 @@ pinned = false
 image = "gnaz.jpg"
 description = "Eine Serie über den Kontrast zwischen der wunderschönen Natur und der weniger schönen Industrie."
 +++
-ich starte die Serie um 08:00 Uhr Morgens mit einem Bild vom Matterhorn beim Sonnenaufgang. Der Berg und die Umgebung sieht sehr stimmig und ruhig aus.
+Ich starte die Serie um 08:00 Uhr Morgens mit einem Bild vom Matterhorn beim Sonnenaufgang. Der Berg und die Umgebung sieht sehr stimmig und ruhig aus.
 
 ![](matterhornschlecht.jpg "Matterhorn 08:00 Uhr")
 
@@ -18,7 +18,7 @@ Auf folgendem Bild sieht man eine der typischen Sommerbaustellen. Wenn es warm i
 
 ![](schmutz.jpg "Spabereich 14:00 Uhr")
 
-Um den Tag noch einmal zusammen zu fassen und ein Gesamtbild des Dorfes zu bekommen bin ich mit meinem Fahrrad ein bisschen den Berg hinauf gefahren. Der Anblick hat mich beeindruckt und ich finde man bekommt ein schönes und auch ein bisschen ein anderes Bild von Zermatt als normalerweise. Normalerweise sieht man auf den Postkarten und in den Werbungen bloss das schöne Horn und nicht, was rund herum passiert.
+Um den Tag noch einmal zusammen zu fassen und ein Gesamtbild des Dorfes zu bekommen, bin ich mit meinem Fahrrad ein bisschen den Berg hinauf gefahren. Der Anblick hat mich beeindruckt und ich finde man bekommt ein schönes und auch ein bisschen ein anderes Bild von Zermatt als normalerweise. Normalerweise sieht man auf den Postkarten und in den Werbungen bloss das schöne Horn und nicht, was rund herum passiert.
 
 ![](gnaz.jpg "Dorf 15:15 Uhr")
 
