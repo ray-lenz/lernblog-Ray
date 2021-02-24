@@ -8,7 +8,7 @@ description = "Eine Serie über den Kontrast zwischen der wunderschönen Natur u
 +++
 ich starte die Serie um 08:00 Uhr Morgens mit einem Bild vom Matterhorn beim Sonnenaufgang. Der Berg und die Umgebung sieht sehr stimmig und ruhig aus.
 
-![](matterhornschlecht.jpg "Matterhorn")
+![](matterhornschlecht.jpg "Matterhorn 08:00 Uhr")
 
 Mein Ziel war es, die schöne Seite Zermatts ins Zusammenspiel mit der weniger schönen, industriellen Seite zu setzen. Im Vordergrund sieht man eine überbaute Stelle, währenddessen das Matterhorn im Hintergrund nicht vergessen geht. Die Bauarbeiter hatten um 12:30 Uhr vermutlich gerade Pause, so dass ich dieses Bild ungestört schiessen konnte
 
